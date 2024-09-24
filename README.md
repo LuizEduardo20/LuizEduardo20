@@ -1,6 +1,6 @@
 # Olá! Eu sou Luiz Eduardo 😎
 
-###Transformo suas ideias em sites
+### Transformo suas ideias em sites
 
 📘 Estudante Front-end & Back-end
 
