@@ -1,12 +1,4 @@
-<h1 align="left">Olá! Me chamo Luiz Eduardo😎</h1>
-
-###
-
-<h3 align="left">Transformo suas ideias em sites</h3>
-
-###
-
-<p align="left">📘 Estudante Front-end & Back-end<br><br>🔭 Sempre ouvindo música, Testando novas tecnologias e Criando projetos</p>
+<h1 align="left">Olá! me chamo Luiz Eduardo😎</h1>
 
 ###
 
@@ -15,6 +7,10 @@
 ###
 
 <p align="left">Me chamo Luiz Eduardo, tenho 20 anos e sou estudante de TDS no IFPI. Sou apaixonado por desenvolvimento front-end e estou constantemente em busca de aprender e me aprofundar na área.<br><br>No tempo livre, Escuto música, testo novas tecnologias e planejar projetos pessoais que me ajudam a melhorar como desenvolvedor. Acredito que a prática constante e a curiosidade são fundamentais para crescer na área de tecnologia.<br><br>Atualmente, estou focado em me tornar um desenvolvedor frontend e busco oportunidades para aplicar e melhorar meus conhecimentos nesse campo. Minha jornada envolve combinar os conhecimentos acadêmicos com projetos práticos, sempre buscando inovação e aprendizado contínuo.</p>
+
+###
+
+<h4 align="left">Transformo suas ideias em sites</h4>
 
 ###
 
@@ -55,12 +51,6 @@
   <a href="https://www.instagram.com/luiz_eduardo19_/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/LuizEduardo20/count.svg?"  />
 </div>
 
 ###
