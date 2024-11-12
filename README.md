@@ -1,56 +1,59 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=40cfff&random=false&width=435&lines=Ol%C3%A1!+Eu+sou+o+Luiz+Eduardo)](https://git.io/typing-svg)
+<h1 align="center"> Olá, eu sou o Luiz Eduardo! 👋
+  <p></p>
+  <p>
+    <a href="mailto:gleidsontech@gmail.com" title="Email">
+      <img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    </a>
+    <a href="https://www.instagram.com/luiz_eduardo19_/" title="Instagram">
+      <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    </a>
+  </p>
+</h1>
 
-###
+<div style="display: flex; align-items: flex-start; justify-content: center; min-height: 300px;">
+  <div>
+    <p align="center">Sou desenvolvedor web front-end, com conhecimento em HTML, CSS, JavaScript, React e NodeJS, e pretendo plantar conhecimento em PHP. Atualmente, Estou cursando Técnico em Análise e Desenvolvimento de Sistemas, tenho 20 Anos e moro em Teresina, Píaui</p>
+  </div>
 
-<h2 align="left">Sobre me</h2>
+  <div align="left">
+      <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" align="right" alt="ilustração de um computador" width="400px" style="margin-right: 20px;">
+<p>
+  <strong>
+    Tecnologias:
+  </strong>
+  <p>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="ReactJS"/>
+    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS"/>
+    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"
+  </p>
+</p>
 
-###
+<p>
+  <strong>
+    🛠️ Ferramentas:
+  </strong>
+  <p>
+    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code"/>
+    <img src="https://img.shields.io/badge/-Git-1c1c1c?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  </p>
 
-<p align="left">Me chamo Luiz Eduardo, tenho 20 anos e sou estudante de TDS no IFPI. Sou apaixonado por desenvolvimento front-end e estou constantemente em busca de aprender e me aprofundar na área.<br><br>No tempo livre, Escuto música, testo novas tecnologias e planejar projetos pessoais que me ajudam a melhorar como desenvolvedor. Acredito que a prática constante e a curiosidade são fundamentais para crescer na área de tecnologia.<br><br>Atualmente, estou focado em me tornar um desenvolvedor frontend e busco oportunidades para aplicar e melhorar meus conhecimentos nesse campo. Minha jornada envolve combinar os conhecimentos acadêmicos com projetos práticos, sempre buscando inovação e aprendizado contínuo.</p>
+<p>
+  <strong>
+    Interesses:
+  </strong>
+  <p>
+    <img src="https://img.shields.io/badge/-PHP-1c1c1c?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  </p>
+</p>
 
-###
+## 🧠 Conhecimentos mais Aprofundados!
 
-<h4 align="left">Transformo suas ideias em sites</h4>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=LuizEduardo20&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=algolia&hide_border=true&order=2" height="150" alt="languages graph"/></br>
 
-###
+## 📈 Adicionais!
 
-<h2 align="left">💻 Tecnologias que uso no dia a dia</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuizEduardo20&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=algolia&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  /></br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LuizEduardo20&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=algolia&hide_border=true&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<h3 align="left">Onde me encontrar</h3>
-
-###
-
-<div align="left">
-  <a href="https://www.instagram.com/luiz_eduardo19_/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-</div>
-
-###
+<img src="https://github-readme-stats.vercel.app/api?username=LuizEduardo20&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=algolia&locale=en&hide_border=true&order=1" height="150" alt="stats graph"/></br></br>
+Agradeço a sua visita!! 👌😁
