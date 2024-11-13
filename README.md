@@ -1,4 +1,4 @@
-<h1 align="center"> Olá, eu sou o Luiz Eduardo! 👋
+<h1 align="center"> Olá, eu sou o Luiz Eduardo! 👋 </h1>
   <p></p>
   <p>
     <a href="mailto:gleidsontech@gmail.com" title="Email">
@@ -42,7 +42,7 @@
 
 <p>
   <strong>
-    Interesses:
+    Interesse:
   </strong>
   <p>
     <img src="https://img.shields.io/badge/-PHP-1c1c1c?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
