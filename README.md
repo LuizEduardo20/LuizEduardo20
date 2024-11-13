@@ -50,7 +50,7 @@
   </p>
 </p>
 
-## 🧠 Conhecimentos mais Aprofundados!
+## 🧠 Conhecimentos Aprofundados!
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LuizEduardo20&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=algolia&hide_border=true&order=2" height="150" alt="languages graph"/></br>
 
