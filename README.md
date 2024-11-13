@@ -1,6 +1,6 @@
 <h1 align="center"> Olá, eu sou o Luiz Eduardo! 👋 </h1>
   <p></p>
-  <p style="display: flex; align-items: center; justify-content: center;">
+  <p style="display: flex; align-items: flex-start; justify-content: center;">
     <a href="mailto:gleidsontech@gmail.com" title="Email">
       <img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
     </a>
