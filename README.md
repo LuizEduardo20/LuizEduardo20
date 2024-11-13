@@ -1,15 +1,13 @@
 <h1 align="center"> Olá, eu sou o Luiz Eduardo! 👋 </h1>
-  <p></p>
-  <div style="display: flex; align-items: center; justify-content: center;">
-    <a href="mailto:gleidsontech@gmail.com" title="Email">
-      <img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-    </a>
-    <a href="https://www.instagram.com/luiz_eduardo19_/" title="Instagram">
-      <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-    </a>
-  </div>
-</h1>
-
+<div align="center">
+  <a href="mailto:gleidsontech@gmail.com" title="Email">
+    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.instagram.com/luiz_eduardo19_/" title="Instagram">
+    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</div>
+</br>
 <div style="display: flex; align-items: flex-start; justify-content: center; min-height: 300px;">
   <div>
     <p align="center">Sou desenvolvedor web front-end, com conhecimento em HTML, CSS, JavaScript, React e NodeJS, e pretendo plantar conhecimento em PHP. Atualmente, Estou cursando Técnico em Análise e Desenvolvimento de Sistemas, tenho 20 Anos e moro em Teresina, Píaui</p>
