@@ -10,7 +10,7 @@
 </br>
 <div style="display: flex; align-items: flex-start; justify-content: center; min-height: 300px;">
   <div>
-    <p align="center">Sou desenvolvedor web front-end, com conhecimento em HTML, CSS, JavaScript, React e NodeJS, e pretendo plantar conhecimento em PHP. Atualmente, Estou cursando Técnico em Análise e Desenvolvimento de Sistemas, tenho 20 Anos e moro em Teresina, Píaui</p>
+    <p align="center">Desenvolvedor web front-end, com conhecimento em HTML, CSS, JavaScript, React e NodeJS, e pretendo plantar conhecimento em SQL. Atualmente, Estou cursando Técnico em Análise e Desenvolvimento de Sistemas, tenho 20 Anos e moro em Teresina, Píaui</p>
   </div>
 
   <div align="left">
