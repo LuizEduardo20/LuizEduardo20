@@ -1,6 +1,6 @@
 <h1 align="center"> Olá, eu sou o Luiz Eduardo! 👋 </h1>
 <div align="center">
-  <a href="luizeduardog770@gmail.com" title="Email">
+  <a href="LuizEduardo:luizeduardog770@gmail.com" title="Email">
     <img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://www.instagram.com/luiz_eduardo19_/" title="Instagram">
