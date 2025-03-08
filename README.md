@@ -44,7 +44,7 @@
     Interesse:
   </strong>
   <p>
-    <img src="https://img.shields.io/badge/-PHP-1c1c1c?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   </p>
 </p>
 
