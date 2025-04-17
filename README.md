@@ -1,7 +1,5 @@
-<div align="center">
-    <img style="border: 2px solid #4c06bd; border-radius: 10px;" src='./banner.png' alt='Banner'/>
-</div>
-<br>
+# Olá! Eu sou o Luiz Eduardo
+
 <br>
 <div align="center">
     <a href="www.linkedin.com/in/luiz-eduardo-36ab11250" title="Instagram">
