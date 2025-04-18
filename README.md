@@ -3,15 +3,14 @@
 
 <div align="center">
     <a href="www.linkedin.com/in/luiz-eduardo21" target="_blank" title="Instagram">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
-  </a>
-  <a href="mailto:luizeduardog770@gmail.com" target="_blank" title="Gmail">
-    <img src="https://img.shields.io/badge/-Gmail-000000?style=for-the-badge&logo=gmail&logoColor=ff0000" alt="Gmail"/>
-  </a>
-  <a href="https://www.instagram.com/luiz_eduardo19_/" target="_blank" title="Instagram">
-    <img src="https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=instagram&logoColor=DF0174"
-    alt="Instagram"/>
-  </a>
+        <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
+    </a>
+    <a href="mailto:luizeduardog770@gmail.com" target="_blank" title="Gmail">
+        <img src="https://img.shields.io/badge/-Gmail-000000?style=for-the-badge&logo=gmail&logoColor=ff0000" alt="Gmail"/>
+    </a>
+    <a href="https://www.instagram.com/luiz_eduardo19_/" target="_blank" title="Instagram">
+        <img src="https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=instagram&logoColor=DF0174" alt="Instagram"/>
+    </a>
 </div>
 <br>
 
