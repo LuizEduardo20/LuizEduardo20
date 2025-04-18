@@ -1,7 +1,4 @@
-# Olá! Eu sou o Luiz Eduardo
-
-<img src='./banner.png' alt='Banner 1'/>
-<img src='./bannerOriginal.png' alt='Banner 1'/>
+<img src='./banner.png' alt='Banner'/>
 
 <br>
 <div align="center">
