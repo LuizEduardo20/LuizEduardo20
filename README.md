@@ -1,5 +1,8 @@
 # Olá! Eu sou o Luiz Eduardo
 
+<img src='./banner.png' alt='Banner 1'/>
+<img src='./bannerOriginal.png' alt='Banner 1'/>
+
 <br>
 <div align="center">
     <a href="www.linkedin.com/in/luiz-eduardo-36ab11250" title="Instagram">
