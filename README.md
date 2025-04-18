@@ -1,8 +1,8 @@
 <img src='./banner.png' alt='Banner'/>
-
 <br>
+
 <div align="center">
-    <a href="www.linkedin.com/in/luiz-eduardo-36ab11250?trk=contact-info" target="_blank" title="Instagram">
+    <a href="www.linkedin.com/in/luiz-eduardo21" target="_blank" title="Instagram">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
   </a>
   <a href="mailto:luizeduardog770@gmail.com" target="_blank" title="Gmail">
