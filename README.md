@@ -1,4 +1,4 @@
-<img src='./banner.png' alt='Banner'/>
+<img src='https://github.com/LuizEduardo20/LuizEduardo20/blob/main/banner.png?raw=true' alt='Banner'/>
 <br>
 
 <div align="center">
