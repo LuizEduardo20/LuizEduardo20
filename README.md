@@ -8,14 +8,11 @@
     <a href="mailto:luizeduardog770@gmail.com" target="_blank" title="Gmail">
         <img src="https://img.shields.io/badge/-Gmail-000000?style=for-the-badge&logo=gmail&logoColor=ff0000" alt="Gmail"/>
     </a>
-    <a href="https://www.instagram.com/luiz_eduardo19_/" target="_blank" title="Instagram">
-        <img src="https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=instagram&logoColor=DF0174" alt="Instagram"/>
-    </a>
 </div>
 <br>
 
 <div align='center'>
-    <p align="center">Desenvolvedor web front-end, com conhecimento em HTML, CSS, JavaScript, React e NodeJS, e pretendo cultivar conhecimentos em diversas linguagens e frameworks. Atualmente, Estou cursando Técnico em Análise e Desenvolvimento de Sistemas, tenho 20 Anos e moro em Teresina, Píaui</p>
+    <p align="center">Olá! 👋 Sou Luiz Eduardo, um desenvolvedor web júnior apaixonado por aprender e construir aplicações utilizando React, Node.js (Express), PostgreSQL e etc. Atualmente, estou aprimorando minhas habilidades no curso Técnico em Análise e Desenvolvimento de Sistemas (IFPI) e buscando minha primeira oportunidade profissional na área.</p>
 </div>
 
 <div align="center">
@@ -37,7 +34,7 @@
 #### Ferramentas
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white")
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
 ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
 ![Canva](https://img.shields.io/badge/Canva-000000.svg?&style=for-the-badge&logo=Canva&logoColor=blue)
